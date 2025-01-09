@@ -161,7 +161,7 @@ function spinWithEffect(prizeId) {
             }
 
         }
-    }, 500); // Mỗi lần thay đổi số cách nhau 100ms
+    }, 150); // Mỗi lần thay đổi số cách nhau 100ms
 }
 // Ẩn tất cả các thanh kết quả từ đầu
 hideAllResults();
